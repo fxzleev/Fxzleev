@@ -19,15 +19,13 @@
 		transition: all 0.3s ease;
 	}
 	.card-content {
+		padding: 20px;
 		word-wrap: break-word; /* Перенос длинных слов */
 		white-space: normal; /* Разрешение переноса строк */
 	}
 	.card::before {
 		background: var(--ui-color-primary-500);
 		content: ' ';
-		position: relative;
-		top: -.45em;
-		left: -.35em;
 		display: block;
 		width: 10px;
 		height: 10px;
