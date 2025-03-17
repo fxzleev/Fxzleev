@@ -71,7 +71,7 @@
 		<UProgress orientation="vertical" class="h-84" />
 		<div>
 			<UKbd
-				class="workcard w-285 h-84 text-2xl bg-neutral-800 shadow-2xs shadow-primary-500 rounded-2xl transition-all"
+				class="workcard w-285 h-84 text-2xl bg-neutral-800 shadow-md shadow-primary-500 rounded-2xl transition-all"
 			>
 				<div class="w-full h-full">
 					<p class="date ml-5 mt-5 mb-15 p-2 text-lg text-primary-500">
