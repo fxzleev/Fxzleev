@@ -1,10 +1,10 @@
 <template>
 	<footer id="Feedback" class="mb-20 flex flex-col items-center">
 		<div
-			class="flex justify-between w-312.5 shadow shadow-green-500 rounded-4xl h-30"
+			class="flex justify-between w-312.5 shadow-md shadow-primary-500 rounded-4xl h-30"
 		>
 			<div class="flex flex-col gap-8 m-5">
-				<p class="text-3xl text-green-500 text-center">Хотите связаться со мной?</p>
+				<p class="text-3xl text-primary-500 text-center">Хотите связаться со мной?</p>
 				<p class="font-mono text-neutral-400 text-center">
 					Связаться со мной можно с 10:00 до 19:00 по МСК.
 				</p>
