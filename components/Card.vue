@@ -1,5 +1,5 @@
 <template>
-	<div class="card shadow-md shadow-primary-500">
+	<div class="card shadow-md shadow-primary-500 hover:shadow-neutral-500 hover:shadow-lg">
 		<div class="card-content">
 			<slot></slot>
 		</div>
@@ -16,17 +16,22 @@
 		min-width: 500px;
 		max-width: 500px;
 		margin: 10px auto;
+		transition: all 0.3s ease;
 	}
 	.card-content {
 		word-wrap: break-word; /* Перенос длинных слов */
 		white-space: normal; /* Разрешение переноса строк */
-		& ::before {
-			background: var(--ui-color-primary-500);
-			content: ' ';
-			display: block;
-			width: 10px;
-			height: 10px;
-			border-radius: 50%;
-		}
+	}
+	.card-content::before {
+		background: var(--ui-color-primary-500);
+		content: ' ';
+		display: block;
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		transition: all 0.3s ease;
+	}
+	.card:hover .card-content::before {
+  background-color: var(--ui-color-neutral-500);
 	}
 </style>
