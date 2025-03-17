@@ -77,9 +77,9 @@
 					<p class="date ml-5 mt-5 mb-15 p-2 text-lg text-primary-500">
 						Июль 2020 - Настоящее
 					</p>
-					<h3 class="link__icon p-2 ml-5 font-light text-4xl">
+					<h3 class="p-2 ml-5 font-light text-4xl">
 						<NuxtLink
-							class="transition-all hover:text-primary-500"
+							class="link__icon hover:text-primary-500"
 							to="https://kwork.ru/user/fxzleev"
 							target="_blank"
 							>Фриланс</NuxtLink
@@ -105,11 +105,20 @@
 	border-radius: 0.6rem;
 	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
 }
+.link__icon {
+	transition: all 0.3s ease;
+}
 .link__icon::after {
-	background: url(../assets/img/linkg.svg) 50% / contain no-repeat;
+	background-color: white;
+  -webkit-mask: url('../assets/img/linkg.svg') no-repeat center / contain;
+  mask: url('../assets/img/linkg.svg') no-repeat center / contain;
 	height: 0.4em;
 	content: ' ';
 	margin-left: 0.25em;
 	width: 0.4em;
+	transition: all 0.3s ease;
+}
+.link__icon:hover::after {
+	background-color: var(--ui-color-primary-500)
 }
 </style>
