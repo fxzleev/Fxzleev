@@ -22,16 +22,19 @@
 		word-wrap: break-word; /* Перенос длинных слов */
 		white-space: normal; /* Разрешение переноса строк */
 	}
-	.card-content::before {
+	.card::before {
 		background: var(--ui-color-primary-500);
 		content: ' ';
+		position: relative;
+		top: -.45em;
+		left: -.35em;
 		display: block;
 		width: 10px;
 		height: 10px;
 		border-radius: 50%;
 		transition: all 0.3s ease;
 	}
-	.card:hover .card-content::before {
+	.card:hover::before {
   background-color: var(--ui-color-neutral-500);
 	}
 </style>
