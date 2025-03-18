@@ -1,0 +1,47 @@
+[
+  {
+    "time": "Июль 2020 - Настоящее",
+    "title": "Фриланс",
+    "position": "Веб Разработчик",
+    "description": "Разработка сайта. Исправление ошибок верстки. Написание простых скриптов.",
+    "link": "https://kwork.ru/user/fxzleev",
+    "stackImages": [
+      "https://img.icons8.com/color/144/html-5--v1.png",
+      "https://img.icons8.com/color/144/css3.png",
+      "https://img.icons8.com/color/144/bootstrap--v1.png",
+      "https://img.icons8.com/color/144/tailwind_css.png",
+      "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png",
+      "https://img.icons8.com/color/144/typescript.png",
+      "https://img.icons8.com/fluency/144/vite.png",
+      "https://img.icons8.com/color/144/webpack.png",
+      "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png",
+      "https://imgs.search.brave.com/UqHjX0N1paeQ4ba0l-fAbuKriN6SzhaS9lbe7PUnTck/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n",
+      "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png",
+      "https://img.icons8.com/color/144/nuxt-jc.png",
+      "https://img.icons8.com/fluency/48/node-js.png",
+      "https://nestjs.com/logo-small-gradient.d792062c.svg",
+      "https://img.icons8.com/ios/150/express-js.png",
+      "https://www.electronjs.org/assets/img/logo.svg",
+      "https://img.icons8.com/nolan/128/react-native.png"
+    ],
+    "stackAlt": [
+      "HTML5",
+      "CSS",
+      "Bootstrap",
+      "TailwindCSS",
+      "SASS/SCSS",
+      "TypeScript",
+      "Vite",
+      "WebPack",
+      "React",
+      "Next",
+      "Vue",
+      "Nuxt",
+      "Node",
+      "Nest",
+      "Express",
+      "Electron",
+      "React Native"
+    ]
+  }
+]

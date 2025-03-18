@@ -15,13 +15,13 @@
 		padding: 20px;
 		min-width: 500px;
 		max-width: 500px;
-		margin: 10px auto;
+    margin: 20px;
 		transition: all 0.3s ease;
 	}
 	.card-content {
 		padding: 20px;
-		word-wrap: break-word; /* Перенос длинных слов */
-		white-space: normal; /* Разрешение переноса строк */
+		word-wrap: break-word;
+		white-space: normal;
 	}
 	.card::before {
 		background: var(--ui-color-primary-500);
@@ -33,6 +33,6 @@
 		transition: all 0.3s ease;
 	}
 	.card:hover::before {
-  background-color: var(--ui-color-neutral-500);
+			background-color: var(--ui-color-neutral-500);
 	}
 </style>

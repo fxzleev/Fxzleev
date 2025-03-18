@@ -1,0 +1,107 @@
+[
+  {
+    "title": "HTML(HTML5), TSX, JSX, VUE",
+    "type": "hard"
+  },
+  {
+    "title": "CSS (CSS3), SASS (SCSS), Bootstrap, Tailwind, Animations",
+    "type": "hard"
+  },
+  {
+    "title": "JavaScript (ES6+, OOP), jQuery, TypeScript",
+    "type": "hard"
+  },
+  {
+    "title": "React, Vue, Next, Nuxt, React Native, Electron",
+    "type": "hard"
+  },
+  {
+    "title": "Node.js, Nest.js, Express.js",
+    "type": "hard"
+  },
+  {
+    "title": "Redux (Redux Toolkit, Redux Persist), MobX, Vuex, Pinia",
+    "type": "hard"
+  },
+  {
+    "title": "React Hook Form, Axios, React Router, React Query, VeeValidate, Vue Router, Vue Query",
+    "type": "hard"
+  },
+  {
+    "title": "Webpack, Vite",
+    "type": "hard"
+  },
+  {
+    "title": "Jest, Vitest",
+    "type": "hard"
+  },
+  {
+    "title": "REST API, WebSockets",
+    "type": "hard"
+  },
+  {
+    "title": "BEM, Feature-Sliced Design, Accessibility, UX",
+    "type": "hard"
+  },
+  {
+    "title": "Git (GitHub, GitLab)",
+    "type": "hard"
+  },
+  {
+    "title": "Figma, Adobe Photoshop",
+    "type": "hard"
+  },
+  {
+    "title": "CMS 1C-Bitrix, OpenCart, MODX",
+    "type": "hard"
+  },
+  {
+    "title": "Agile, Waterfall, SCRUM",
+    "type": "hard"
+  },
+
+  {
+    "title": "Я умею работать в команде, у меня есть опыт работы с дизайнерами, менеджерами и другими разработчиками",
+    "type": "soft"
+  },
+  {
+    "title": "Я ответственно отношусь к срокам",
+    "type": "soft"
+  },
+  {
+    "title": "Я внимательно отношусь к деталям",
+    "type": "soft"
+  },
+  {
+    "title": "Я требователен к качеству своего кода и следую единому code-style",
+    "type": "soft"
+  },
+  {
+    "title": "У меня есть навыки time management",
+    "type": "soft"
+  },
+  {
+    "title": "Я приветствую конструктивную критику и всегда рад найти новые точки профессионального и личностного роста",
+    "type": "soft"
+  },
+  {
+    "title": "Я знаю, как разрешать конфликтные ситуации",
+    "type": "soft"
+  },
+  {
+    "title": "Я умею правильно передавать мысли, формулировать вопросы",
+    "type": "soft"
+  },
+  {
+    "title": "При необходимости я составляю подробные отчеты о проделанной работе",
+    "type": "soft"
+  },
+  {
+    "title": "У меня есть опыт удаленной работы",
+    "type": "soft"
+  },
+  {
+    "title": "Я мотивирован на совершенствование своих навыков, постоянно изучаю новые технологии в своей сфере деятельности",
+    "type": "soft"
+  }
+]
